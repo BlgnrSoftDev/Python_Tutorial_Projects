@@ -1,2 +1,2 @@
-# Python_Tutorial_Projects >> README.md # Python_Tutorial_Projects
-# Python_Tutorial_Projects
+Hi guys,
+This repository includes basic projects. I pushed all basic projects i did, to this repository on my python journey :) 
