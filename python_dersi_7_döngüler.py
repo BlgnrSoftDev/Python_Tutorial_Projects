@@ -12,4 +12,22 @@ isim = "Hüseyin"
 for harf in isim:
     print(harf)
     
-    
+names = ["ali", "ayşe", "aslı"]
+for nam in names:
+    print(nam, end=" ")
+
+for ch in names[0]:
+    print(ch, end="-")
+
+print()
+
+list = [(1, 2), (3, 4), (6, 7), (8, 9)]
+
+for x, y in list:
+    print(x, y)
+
+
+dic = {"key1": 1, "key2": 2, "key3": 3}
+
+for ke,va in dic.items():
+    print(ke, va)
