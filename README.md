@@ -1,2 +1,2 @@
 Hi guys,
-This repository includes basic projects. I pushed all basic projects i did, to this repository on my python journey :) 
+This repository includes basic projects. I pushed all basic projects i made, to this repository on my python journey :) 
